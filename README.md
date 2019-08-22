@@ -1,5 +1,9 @@
 # インタフェースの扱い方
 
+[![license](https://img.shields.io/badge/License-MS--PL-blue.svg)](https://opensource.org/licenses/MS-PL)
+
+## Overview
+
 .NET でインタフェースの扱い方について
 
 ## 課題
@@ -9,8 +13,7 @@
 インタフェースとクラス分けをしない実装とも比較してみてください。  
 
 
-License
-=======
+## License
 
 Microsoft Public License (MS-PL)
 
